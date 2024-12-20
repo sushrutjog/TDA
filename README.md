@@ -1,2 +1,2 @@
 # TDA
-Some incomplete TDA notes which I'll (hopefully) complete as I get time.
+Incomplete TDA notes which I'll (hopefully) complete sometime in the future.
